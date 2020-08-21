@@ -1,5 +1,5 @@
 # scibar-analysis
-Analysis scripts for scintillator bar
+Analysis tools for scintillator bar
 
 Repository includes:
 
